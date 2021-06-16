@@ -1,0 +1,12 @@
+CACHE MANIFEST
+# VERSION 1.0.0
+
+CACHE:
+http://html5shim.googlecode.com/svn/trunk/html5.js
+http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js
+/js/cryptojs/rollups/sha1.js
+/js/app.js
+/css/bootstrap.css
+/css/bootstrap-responsive.css
+
+NETWORK:
